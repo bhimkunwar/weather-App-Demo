@@ -1,0 +1,41 @@
+
+
+<table>
+  <tr></tr>
+  <tr>
+    <td>Message:</td>
+    <td>{{weather.message}}</td>
+  </tr>
+  <tr>
+    <td>Code:</td>
+    <td>{{weather.cod}}</td>
+  </tr>
+  <tr>
+    <td>Count:</td>
+    <td>{{weather.cnt}}</td>
+  </tr>
+  <tr>
+    <td>Name:</td>
+    <td>{{weather.city.name}}</td>
+  </tr>
+  <tr>
+    <td>Country:</td>
+    <td>{{weather.city.country}}</td>
+  </tr>
+  <tr>
+    <td>Temp Min:</td>
+    <td>{{weather.list[0].main.temp}}</td>
+  </tr>
+  <tr>
+    <td>Temp Max</td>
+    <td>{{weather.list[0].main.temp_max}}  </td>
+  </tr>
+  <tr>
+    <td>Weather Description:</td>
+    <td>{{weather.list[0].weather[0].description}}  </td>
+  </tr>
+  <tr>
+    <td>Humidity:</td>
+    <td>{{weather.list[0].main.humidity}}  </td>
+  </tr>
+</table>

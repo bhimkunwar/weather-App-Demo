@@ -1,0 +1,14 @@
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\iassettechnicaltest.Pesentation.Views.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\iassettechnicaltest.Pesentation.Views.pdb
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\iassettechnicaltest.Pesentation.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\bin\Debug\netcoreapp2.2\iassettechnicaltest.Pesentation.pdb
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.csprojAssemblyReference.cache
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.csproj.CoreCompileInputs.cache
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.AssemblyInfoInputs.cache
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.AssemblyInfo.cs
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.csproj.CopyComplete
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Presentation.Test\obj\Debug\netcoreapp2.2\iassettechnicaltest.Presentation.Test.pdb

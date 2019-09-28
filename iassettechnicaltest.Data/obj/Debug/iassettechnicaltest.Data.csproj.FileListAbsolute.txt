@@ -1,0 +1,6 @@
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Data\bin\Debug\iassettechnicaltest.Data.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Data\bin\Debug\iassettechnicaltest.Data.pdb
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Data\obj\Debug\iassettechnicaltest.Data.csprojAssemblyReference.cache
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Data\obj\Debug\iassettechnicaltest.Data.csproj.CoreCompileInputs.cache
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Data\obj\Debug\iassettechnicaltest.Data.dll
+F:\dev-works\assignment\iassettechnicaltest\iassettechnicaltest.Data\obj\Debug\iassettechnicaltest.Data.pdb
